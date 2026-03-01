@@ -1,5 +1,5 @@
 <p align="center">
-<img src="IstkharMusic/assets/equalizer.svg" width="100%">
+<img src="AviaxMusic/assets/equalizer.svg" width="100%">
 </p>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=4500&pause=1000&color=00D9FF&center=true&vCenter=true&width=1600&lines=𝗠𝘂𝘀𝗮𝗿𝗿𝗮𝘁+𝗠𝘂𝘀𝗶𝗰+𝗥𝗲𝗽𝗼+—+𝗟𝗶𝗴𝗵𝘁𝗶𝗻𝗴+𝗙𝗮𝘀𝘁+𝗠𝘂𝘀𝗶𝗰+𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴+—+𝗡𝗼𝘄+𝗥𝘂𝗻𝗻𝗶𝗻𝗴+𝗢𝗻+𝗔𝗽𝗶!">

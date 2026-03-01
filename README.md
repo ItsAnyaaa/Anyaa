@@ -1,210 +1,174 @@
-<h1 align="center">🎵 Aviax Music Bot 🎵</h1>
+<p align="center">
+<img src="IstkharMusic/assets/equalizer.svg" width="100%">
+</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=4500&pause=1000&color=00D9FF&center=true&vCenter=true&width=1600&lines=𝗠𝘂𝘀𝗮𝗿𝗿𝗮𝘁+𝗠𝘂𝘀𝗶𝗰+𝗥𝗲𝗽𝗼+—+𝗟𝗶𝗴𝗵𝘁𝗶𝗻𝗴+𝗙𝗮𝘀𝘁+𝗠𝘂𝘀𝗶𝗰+𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴+—+𝗡𝗼𝘄+𝗥𝘂𝗻𝗻𝗶𝗻𝗴+𝗢𝗻+𝗔𝗽𝗶!">
+</div>
+
+---
 
 <p align="center">
-  <img src="https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg" alt="Aviax Music Logo" width="600" height="150">
+    ᴧ ᴛᴇʟᴇɢʀᴧᴍ ʙᴏᴛ ᴛᴏ ᴘʟᴧʏ ᴍᴜsɪᴄ ɪɴ ᴧ ᴠɪᴅᴇᴏ ᴄʜᴧᴛs.
+    <br />
+   </strong></a>
+  </p>
+
+
+<hr>
+
+## 🍁 ᴧʙoᴜᴛ ᴛʜɪs ʙᴏᴛ :
+
+![streamingfilestreambot-professional-live_1](https://user-images.githubusercontent.com/88939380/137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png)
+
+</p>
+<p align='center'>
+    ᴛʜɪs ʀᴇᴘᴏ ᴡɪʟʟ ᴜsᴇ ᴛᴏ ᴅᴇᴘʟᴏʏ ғᴏʀ ʏᴏᴜʀ ᴘʟᴧʏɪɴɢ ʙᴏᴛ ᴏғ ᴛᴇʟᴇɢʀᴧᴍ
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/TeamAviax/AviaxMusic?style=for-the-badge&color=blue" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/TeamAviax/AviaxMusic?style=for-the-badge&color=blue" alt="GitHub forks">
-  <img src="https://img.shields.io/github/issues/TeamAviax/AviaxMusic?style=for-the-badge&color=red" alt="GitHub issues">
-  <img src="https://img.shields.io/github/license/TeamAviax/AviaxMusic?style=for-the-badge&color=green" alt="GitHub license">
-</p>
 
-<h2 align="center">Delivering Superior Music Experience to Telegram</h2>
-
----
-
-### 🛠 Fix for YouTube Blocking VPS IPs
-
-YouTube blocks many VPS IPs. We now provide **two ways** to keep playback smooth:
-
-1. **API (Recommended):**  
-   Stream **audio & video** via our API with built-in vPlay support. No cookie hassle.
-
-2. **Custom Cookies (Fallback / No-API mode):**  
-   Generate cookies on your local machine and place them in the `cookies/` folder to bypass YouTube restrictions.
-
----
-
-## 🎵 Using the API for Audio & Video (vPlay)
-
-The API now supports **both audio and video**.  
-Use API for reliability; switch to **custom cookies** if you prefer not to rely on the API.
-
----
-
-### 🔑 Get an API Key
-
-Manage keys from our official dashboard (no Telegram DMs needed):
-
-[![API Dashboard](https://img.shields.io/badge/Visit-Dashboard-black?style=for-the-badge&logo=vercel)](https://console.nexgenbots.xyz)  
-[![API Community](https://img.shields.io/badge/Join-API%20Community-green?style=for-the-badge&logo=telegram)](https://t.me/+DXGe6UE90y01NDVl)  
-[![Contact Rahul](https://img.shields.io/badge/DM-@RahulTC-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/ItzRahul)  
-
----
-
-#### 🛠️ Steps to Get Started
-
-1. **Sign up** at [console.nexgenbots.xyz](https://console.nexgenbots.xyz) and create an account.  
-2. **Generate Key**: After logging in, click **“Generate Key”** on the dashboard to activate the **Free Plan**.  
-3. **Upgrade anytime** via the dashboard for higher limits.  
-
----
-
-### 📦 Plans & Pricing (₹/month)
-
-| Plan          | Daily API Requests | Daily Video Requests | Price   |
-|---------------|--------------------|----------------------|---------|
-| **Free**      | 5,000              | 250                  | ₹0      |
-| **Starter**   | 10,000             | 500                  | ₹01     |
-| **Standard**  | 15,000             | 750                  | ₹02     |
-| **Pro**       | 25,000             | 1,000                | ₹03     |
-| **Business**  | 50,000             | 2,000                | ₹04     |
-| **Enterprise**| 100,000            | 4,000                | ₹05     |
-| **Ultra**     | 150,000            | 5,000                | ₹06     |
-
----
-
-### 📌 Important Notes About API Usage
-
-- 🔄 **Daily Reset**: All limits reset at midnight (IST).  
-- 🎧🎬 **Audio + Video**: Fully supported via API (vPlay).  
-- 🍪 **Fallback**: Add local **custom cookies** if you prefer not to use the API (works for both audio & video).  
-- 💬 **Support**: Join the [API Community Group](https://t.me/+DXGe6UE90y01NDVl).  
-
----
-
-### ⚙️ Integration
-
-Add your API key to `.env`:
+## ♢ ʜᴏᴡ ᴛᴏ ᴍᴧᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ :
 
 
-API_KEY=your-api-key-here
+#### ♢ ᴄʟɪᴄᴋ ᴏɴ ᴛʜɪs ᴅʀᴏᴘ-ᴅᴏᴡɴ ᴧɴᴅ ɢᴇᴛ ᴍᴏʀᴇ ᴅᴇᴛᴧɪʟs
+<br>
+<details>
+  <summary><b>ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ:</b></summary>
 
----
 
-### 🌟 Features
+1. ғᴏʀᴋ ᴛʜɪs ʀᴇᴘᴏ
+2. ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴧɴᴅ ғᴏʟʟᴏᴡ sᴛᴇᴘs
 
-- 🎵 **Multiple Sources:** Play music from various platforms.
-- 📃 **Queue System:** Line up your favorite songs.
-- 🔀 **Advanced Controls:** Shuffle, repeat, and more.
-- 🎛 **Customizable Settings:** From equalizer to normalization.
-- 📢 **Crystal Clear Audio:** High-quality playback.
-- 🎚 **Volume Mastery:** Adjust to your preferred loudness.
+<h4> sᴏ ғᴏʟʟᴏᴇ ᴧʙᴏᴠᴇ sᴛᴇᴘs👆ᴧɴᴅ  ᴛʜᴇɴ ᴅᴇᴘʟᴏʏ ᴏᴛʜᴇʀ ᴡɪsᴇ ʙᴏᴛ ᴅᴏɴ'ᴛ ᴡᴏʀᴋ</h4>
 
----
+ᴘʀᴇss ᴛʜᴇ ʙᴇʟʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ғᴧsᴛ ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ/ʀᴧɪʟᴡᴀʏ
+ᴇɪᴛʜᴇʀ ʏᴏᴜ ᴄᴏᴜʟᴅ ʟᴏᴄᴧʟʟʏ ʜᴏsᴛ ᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ [ʜᴇʀᴏᴋᴜ](https://heroku.com)
+### 💜 ʜᴇʀᴏᴋᴜ
 
-## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CyberPixelPro/AviaxMusic)
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/pvt-bot/Musarrat"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
 
----
+<br>
 
-### 🔧 Quick Setup
 
-1. **Upgrade & Update:**
-   ```bash
-   sudo apt-get update && sudo apt-get upgrade -y
-   ```
+then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables. </details>
 
-2. **Install Required Packages:**
-   ```bash
-   sudo apt-get install python3-pip ffmpeg -y
-   ```
-3. **Setting up PIP**
-   ```bash
-   sudo pip3 install -U pip
-   ```
-4. **Clone the Repository**
-   ```bash
-   git clone https://github.com/ITZ-VAMPIRE07/VAMPIRE-MUSICV2 && cd VAMPIRE-MUSICV2
-   ```
-5. **Install Requirements**
-   ```bash
-   pip3 install -U -r requirements.txt
-   ```
-6. **Create .env  with sample.env**
-   ```bash
-   cp sample.env .env
-   ```
-   - Edit .env with your vars
-7. **Editing Vars:**
-   ```bash
-   vi .env
-   ```
-   - Edit .env with your values.
-   - Press `I` button on keyboard to start editing.
-   - Press `Ctrl + C`  once you are done with editing vars and type `:wq` to save .env or `:qa` to exit editing.
-8. **Installing tmux**
-    ```bash
-    sudo apt install tmux -y && tmux
-    ```
-9. **Run the Bot**
-    ```bash
-    bash start
-    ```
-
----
-
-### 🛠 Commands & Usage
-
-The Aviax Music Bot offers a range of commands to enhance your music listening experience on Telegram:
-
-| Command                 | Description                                 |
-|-------------------------|---------------------------------------------|
-| `/play <song name>`     | Play the requested song.                    |
-| `/pause`                | Pause the currently playing song.           |
-| `/resume`               | Resume the paused song.                     |
-| `/skip`                 | Move to the next song in the queue.         |
-| `/stop`                 | Stop the bot and clear the queue.           |
-| `/queue`                | Display the list of songs in the queue.     |
-
-For a full list of commands, use `/help` in [telegram](https://t.me/AviaxBeatzBot).
-
----
-
-### 🔄 Updates & Support
-
-Stay updated with the latest features and improvements to Aviax Music Bot:
-
-<p align="center">
-  <a href="https://telegram.me/NexGenBotsIndia">
-    <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
-  </a>
-  <a href="https://telegram.me/NexGenBots">
-    <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
-  </a>
-</p>
-
----
-
-### 🤝 Contributing
-
-We welcome contributions to the Aviax Music Bot project. If you'd like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch with a meaningful name.
-3. Make your changes and commit them with a descriptive commit message.
-4. Open a pull request against our `master` branch.
-5. Our team will review your changes and provide feedback.
-
-For more details, reach out us on telegram.
-
----
-
-### 📜 License
-
-This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
-
----
-
-### 🙏 Acknowledgements
-
-Thanks to all the contributors, supporters, and users of the Aviax Music Bot. Your feedback and support keep us going!
-- Yukki Music & AnonX Music – Base inspiration
-- All contributors & community members
+<details>
+  <summary><b>ғᴇᴧᴛᴜʀᴇs:</b></summary>
   
----
+<p>
 
-⭐ If you like this project, don’t forget to star the repo!
+🚀ғᴇᴧᴛᴜʀᴇs<p>
+💥Superfast⚡️ download and stream links.<br>
+💥No ads in playing songs.<br>
+💥Superfast interface.<br>
+💥Updates channel Support.<br>
+💥Mongodb database support for broadcasting.<br>
+💥User Freindly Interface.<br>
+💥Ping check.<br>
+💥Kickme and Video Chat Notifier are Available.<br>
+💥Real time CPU , RAM , Internet usage. <br>
+💥All unwanted code removed. <br>
+💥A lot more tired of writing check out by deploying it. 
+</details>
+<details>
+  <summary><b>ʜᴏsᴛ ɪᴛ ᴏɴ ᴠᴘs ʟᴏᴄᴧʟʟʏ :</b></summary>
 
+
+```py
+sudo apt-get install python3-pip ffmpeg -y
+sudo apt-get install python3-pip -y
+sudo pip3 install -U pip
+curl -fssL
+https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
+git clone https://github.com/itsAarumi/AarumiMusic&& cd AarumiMusic
+pip3 install -U -r requirements.txt
+bash setup
+sudo apt install tmux
+tmux kill-session
+tmux
+bash start
+Ctrl+b then d
+```
+
+and to stop the whole bot,
+ do <kbd>CTRL</kbd>+<kbd>C</kbd>
+
+Setting up things
+
+If you're on Heroku, just add these in the Environmental Variables
+or if you're Locally hosting, create a file named `sample.env` in the root directory and add all the variables there.
+An example of `sample.env` file:
+
+```py
+API_ID=
+API_HASH=
+BOT_TOKEN=
+LOGGER_ID=
+MONGO_DB_URI=
+OWNER_ID=
+STRING_SESSION=
+```
+  </details>
+
+<details>
+  <summary><b>ᴠᴧʀs ᴧɴᴅ ᴅᴇᴛᴧɪʟs :</b></summary>
+
+`API_ID` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+
+`API_HASH` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+
+`BOT_TOKEN` : Get the bot token from [@BotFather](https://telegram.dog/BotFather)
+  
+`OWNER_ID` : Your Telegram User ID
+
+`LOGGER_ID` : Your Telegram Chat ID For logs Where Bot and Assistant Id Should Be AdMin! 
+
+`STRING_SESSION` : Add String session for assistant to play songs on voice chat.
+
+`DATABASE_URL` : MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help to get the URI you can click on logo below!
+
+[![mongo](https://telegra.ph/file/fd68906852c71fdd68bef.jpg)](https://www.youtube.com/watch?v=HhHzCfrqsoE)
+
+ Option Vars
+
+`UPDATES_CHANNEL` : Put a Public Channel Username, so every user have to Join that channel to use the bot. Must add bot to channel as Admin to work properly.
+ </details>
+
+<details>
+  <summary><b>ʜᴏᴡ ᴛᴏ ᴜsᴇ :</b></summary>
+
+:warning: **Before using the  bot, don't forget to add the bot to the `Logger_Chat` as an Admin**
+ 
+- `/start` : To check if the bot is alive or not.
+
+- `/play ᴏʀ /vplay ᴏʀ /cplay` : sᴛᴀʀᴛs sᴛʀᴇᴀᴍɪɴɢ ᴛʜᴇ ʀᴇǫᴜᴇsᴛᴇᴅ ᴛʀᴀᴄᴋ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.
+
+- `/playforce ᴏʀ /vplayforce ᴏʀ /cplayforce` : **ғᴏʀᴄᴇ ᴩʟᴀʏ** sᴛᴏᴩs ᴛʜᴇ ᴏɴɢᴏɪɴɢ sᴛʀᴇᴀᴍ ᴀɴᴅ sᴛᴀʀᴛs sᴛʀᴇᴀᴍɪɴɢ ᴛʜᴇ ʀᴇǫᴜᴇsᴛᴇᴅ ᴛʀᴀᴄᴋ.
+
+- `/channelplay [ᴄʜᴀᴛ ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ɪᴅ] ᴏʀ [ᴅɪsᴀʙʟᴇ]` : ᴄᴏɴɴᴇᴄᴛ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀ ɢʀᴏᴜᴩ ᴀɴᴅ sᴛᴀʀᴛs sᴛʀᴇᴀᴍɪɴɢ ᴛʀᴀᴄᴋs ʙʏ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴄᴏᴍᴍᴀɴᴅs sᴇɴᴛ ɪɴ ɢʀᴏᴜᴩ.
+
+- `/seek` : sᴇᴇᴋ ᴛʜᴇ sᴛʀᴇᴀᴍ ᴛᴏ ᴛʜᴇ ɢɪᴠᴇɴ ᴅᴜʀᴀᴛɪᴏɴ.
+
+- `/seekback` : ʙᴀᴄᴋᴡᴀʀᴅ sᴇᴇᴋ ᴛʜᴇ sᴛʀᴇᴀᴍ ᴛᴏ ᴛʜᴇ ᴛʜᴇ ɢɪᴠᴇɴ ᴅᴜʀᴀᴛɪᴏɴ.
+
+- `/pause` : ᴩᴀᴜsᴇ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ.
+
+- `/resume` : ʀᴇsᴜᴍᴇ ᴛʜᴇ ᴩᴀᴜsᴇᴅ sᴛʀᴇᴀᴍ.
+
+- `/skip` : sᴋɪᴩ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴀɴᴅ sᴛᴀʀᴛ sᴛʀᴇᴀᴍɪɴɢ ᴛʜᴇ ɴᴇxᴛ ᴛʀᴀᴄᴋ ɪɴ ǫᴜᴇᴜᴇ.
+
+- `/end ᴏʀ /stop` : ᴄʟᴇᴀʀs ᴛʜᴇ ǫᴜᴇᴜᴇ ᴀɴᴅ ᴇɴᴅ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ.
+
+To get an instant result do /reboot in chat of logger .
+  
+![image](https://graph.org/file/801e199f756d83cb4d7f5-068bb84543385c04b6.jpg)
+
+
+### Channel Support
+Bot also Supported with Channels. Just add bot and assistant to the Channel as Admin. </details>
+
+### Credits : 
+
+- [ᴧᴧʀᴜᴍɪ](https://github.com/itsAarumi)
+- [ᴛᴇʟᴇɢʀᴧᴍ](https://t.me/Swagger_Soul)
+- Everyone In This Journey !
+- 
